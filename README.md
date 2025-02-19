@@ -32,5 +32,4 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisMonteiro0211&show_icons=true&theme=tokyonight&count_private=true" />
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMonteiro0211&layout=compact&theme=tokyonight" /> -->
-  
 </div>
